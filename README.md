@@ -25,6 +25,7 @@ To add your own template, submit a pull request to https://github.com/chriskemps
 * [CSS, Less, Sass/Scss & Stylus](https://github.com/samme/base16-styles) maintained by [samme](https://github.com/samme)
 * [Dunst](https://github.com/khamer/base16-dunst) maintained by [khamer](https://github.com/khamer)
 * [Emacs](https://github.com/belak/base16-emacs) maintained by [belak](https://github.com/belak)
+* [Foot](https://git.sr.ht/~rockorager/base16-foot) maintained by [rockorager](https://github.com/rockorager)
 * [Frescobaldi](https://github.com/rkubosz/base16-frescobaldi) maintained by [rkubosz](https://github.com/rkubosz)
 * [fzf](https://github.com/fnune/base16-fzf) maintained by [fnune](https://github.com/fnune)
 * [Gnome Terminal](https://github.com/aarowill/base16-gnome-terminal) maintained by [aarowill](https://github.com/aarowill)
